@@ -1,0 +1,28 @@
+Industrial & Production Engineering
+IPE
+Glass & Ceramic Engineering
+GCE
+Mechatronics Engineering
+MTE
+Mechanical Engineering
+ME
+Material Science & Engineering
+MSE
+Chemical and Food Process Engineering
+CFPE
+Civil Engineering
+CE
+Urban & Regional Planning
+URP
+Architecture
+Arch
+Building Engineering & Construction Management
+BECM
+Computer Science & Engineering
+CSE
+Electrical & Electronic Engineering
+EEE
+Electronics and Telecommunication Engineering
+ETE
+Electrical & Computer Engineering
+ECE
